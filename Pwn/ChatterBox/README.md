@@ -26,9 +26,9 @@ So back to what the description says :
 As a side note, we think you should know we like talking in months and days. Hopefully you understand.
 ```
 
-This is a hint that's based on using months and days
+This is a hint that's based on using months and days combination as the password
 
-I then make a script to create a wordlist and brute force the password
+I then make a script to create a wordlist so that I can brute force the password
 
 Here's the script I used to create the [wordlist](https://github.com/markuched13/markuched13.github.io/blob/main/solvescript/csean/pwn/chatterbox/wordlist.py)
 
@@ -114,7 +114,7 @@ I choose the option and was able to run os commands
 
 At this point I got a reverse shell and uploaded linpeas to the box
 
-But the issue was no binary was available and of cause this is excepted cause we are in a docker container
+I wanted to try escalate privilege since the flag wasn't really stored as a file on this box but the issue was no binary was available for the upload of file and of cause this is excepted cause we are in a docker container
 
 Using bash I was able to upload linpeas
 
