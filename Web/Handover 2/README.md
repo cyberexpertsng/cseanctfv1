@@ -64,7 +64,7 @@ It worked and this confirmed a broken access control vulnerability
 I can now get the flag using the json web token
 ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/09494277-3424-406c-a1d5-fd3792fa2468)
 
-```
+```r
 GET /api/flag HTTP/1.1
 Host: 143.198.98.92:9092
 User-Agent: python-requests/2.25.1
