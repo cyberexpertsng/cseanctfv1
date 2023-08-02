@@ -11,5 +11,6 @@ Investigating the picture reveals some modification has taken place as the PNG e
 
 ![](https://raw.githubusercontent.com/cyberexpertsng/cseanctfv1/main/Stego/Uncut/edit.png)
 
+![](https://raw.githubusercontent.com/cyberexpertsng/cseanctfv1/main/Stego/Uncut/uncut%20-%20helping%20family%20with%20cybersecurity%202.png)
 
 
