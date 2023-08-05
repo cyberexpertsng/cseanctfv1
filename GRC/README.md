@@ -12,8 +12,12 @@ flag : csean-ctf{Internal Audit}
 ![](https://raw.githubusercontent.com/cyberexpertsng/cseanctfv1/main/GRC/2023-07-12_15-16_2.png)
 
 ```
-flag: ncsean-ctf{NDPR}
+flag: csean-ctf{NDPR}
 ```
 
 #### GRC 4
 ![](https://raw.githubusercontent.com/cyberexpertsng/cseanctfv1/main/GRC/2023-07-12_15-17.png)
+
+```
+flag: csean-ctf{Policy management}
+```
